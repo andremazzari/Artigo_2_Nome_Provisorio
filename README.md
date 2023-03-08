@@ -8,6 +8,8 @@ This repository contains some files related to the work presented in **nome do a
 
 - **2V-L-Facets-Prob**: contains the facet inequalities of the $\mathcal{L}_{G}$ polytope for the scenario considered in theorem 1 and appendix A.
 
+- **2V-L-Facet-Violation-Quantum-Realization**: example of quantum realization that violates the facet inequality (28) for the $\mathcal{L}_{G}$ polytope.
+
 - **2T-Lnc-Facets-Prob**: contains the facet inequalities of the $\mathcal{L}_{NC}$ polytope for the scenario considered in theorem 2 and appendix B.
 
 - **2T-Lnd-Facets-Prob**: contains the facet inequalities of the $\mathcal{L}_{ND}$ polytope for the scenario considered in theorem 2 and appendix B.
