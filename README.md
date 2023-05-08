@@ -20,6 +20,8 @@ This repository contains some files and codes related to the work presented in *
 
 - **2V-Compare-LND-Lnd**: Linear programming optimization used to find a behaviour belonging to $\mathcal{L}_{G} \cap \mathcal{ND}$ but not to $\mathcal{L}_{ND}$ for the scenario considered in theorem 1 and appendix A.
 
+- **2V-NPA-Prob**: Implementation of the NPA hierarchy used to show that the behaviour in table A1, for the scenario considered in theorem 1 and appendix A, is not quantum.
+
 - **2T-Lnc-Facets-Prob**: contains the facet inequalities of the $\mathcal{L}_{NC}$ polytope for the scenario considered in theorem 2 and appendix B.
 
 - **2T-Lnd-Facets-Prob**: contains the facet inequalities of the $\mathcal{L}_{ND}$ polytope for the scenario considered in theorem 2 and appendix B.
