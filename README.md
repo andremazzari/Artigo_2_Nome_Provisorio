@@ -1,6 +1,6 @@
 # Artigo_2_Nome_Provisorio
 
-This repository contains some files related to the work presented in **nome do artigo (link)**. The facet inequalities for the polytopes considered were found using the software [PANDA](https://www.sciencedirect.com/science/article/abs/pii/S2192440621000484).
+This repository contains some files related to the work presented in **Generalized Bell Scenarios: Exploring Contextuality and Disturbance Inside Local Variable Models (link)**. The facet inequalities for the polytopes considered were found using the software [PANDA](https://www.sciencedirect.com/science/article/abs/pii/S2192440621000484).
 
 - **2V-Lnd-Facets-Prob**: contains the facet inequalities of the $\mathcal{L}_{ND}$ polytope for the scenario considered in theorem 1 and appendix A.
 
