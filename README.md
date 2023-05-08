@@ -8,7 +8,17 @@ This repository contains some files related to the work presented in **nome do a
 
 - **2V-L-Facets-Prob**: contains the facet inequalities of the $\mathcal{L}_{G}$ polytope for the scenario considered in theorem 1 and appendix A.
 
-- **2V-L-Facet-Violation-Quantum-Realization**: example of quantum realization that violates the facet inequality (28) for the $\mathcal{L}_{G}$ polytope.
+- **2V-L-Facet-Violation-Quantum-Realization**: example of quantum realization that violates the facet inequality (29) for the $\mathcal{L}_{G}$ polytope.
+
+- **2V-L-ND-Vertices-Prob-Input**: contains the input for the software PANDA to find the extreme vertices of the $\mathcal{L}_{G} \cap \mathcal{ND}$ polytope for the scenario considered in theorem 1 and appendix A.
+
+- **2V-L-ND-Vertices-Prob**: contains the extreme vertices of the $\mathcal{L}_{G} \cap \mathcal{ND}$ polytope for the scenario considered in theorem 1 and appendix A. For each line, the probabilities are organized as specified in the input file 2V-L-ND-Vertices-Prob-Input.txt.
+
+- **2V-NSND-Vertices-Prob-Input**: contains the input for the software PANDA to find the extreme vertices of the $\mathcal{NSND}$ polytope for the scenario considered in theorem 1 and appendix A.
+
+- **2V-NSND-Vertices-Prob**: contains the extreme vertices of the $\mathcal{NSND}$ polytope for the scenario considered in theorem 1 and appendix A. For each line, the probabilities are organized as specified in the input file 2V-NSND-Vertices-Prob-Input.txt.
+
+- **2V-Compare-LND-Lnd**: Linear programming optimization used to find a behaviour belonging to $\mathcal{L}_{G} \cap \mathcal{ND}$ but not to $\mathcal{L}_{ND}$ for the scenario considered in theorem 1 and appendix A.
 
 - **2T-Lnc-Facets-Prob**: contains the facet inequalities of the $\mathcal{L}_{NC}$ polytope for the scenario considered in theorem 2 and appendix B.
 
